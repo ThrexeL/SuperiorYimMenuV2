@@ -1,6 +1,6 @@
-# YimMenuV2
+# SuperiorYimMenuV2
 
-Experimental menu for GTA 5: Enhanced
+Kinda experimental menu for GTA 5: Enhanced
 
 ## How to use
 
